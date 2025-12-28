@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Global Superstore Power BI Dashboard</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 30px;
-            background-color: #fafafa;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        img {
-            width: 100%;
-            border-radius: 8px;
-            margin: 20px 0;
-            box-shadow: 0px 4px 12px rgba(0,0,0,0.15);
-        }
-        ul {
-            margin-left: 20px;
-        }
-        .highlight {
-            background: #f4f6f7;
-            padding: 15px;
-            border-left: 6px solid #4CAF50;
-            margin: 20px 0;
-        }
-        .section {
-            margin-top: 40px;
-        }
-    </style>
-</head>
+
 
 <body>
 
