@@ -63,7 +63,8 @@ It focuses on uncovering actionable insights related to <b>sales performance, cu
 • Sellers: 13
 </div>
 
-<img src="/mnt/data/1 (2).png" alt="Overall KPI Dashboard">
+
+<img width="1655" height="837" alt="1 (2)" src="https://github.com/user-attachments/assets/8be8eb53-13b1-4abd-ad97-af1c61540c51" />
 
 <hr>
 
@@ -75,7 +76,8 @@ It focuses on uncovering actionable insights related to <b>sales performance, cu
     <li>APAC leads in both revenue and profitability.</li>
 </ul>
 
-<img src="/mnt/data/2 (3).png" alt="Sales Performance Dashboard">
+
+<img width="1348" height="680" alt="2 (3)" src="https://github.com/user-attachments/assets/4ec8d6ca-185b-4b82-8bac-c3a1b7a21a9c" />
 
 <hr>
 
@@ -90,7 +92,7 @@ It focuses on uncovering actionable insights related to <b>sales performance, cu
 CLV = (Average Order Value × Average Profit Margin) ÷ Purchase Frequency
 </p>
 
-<img src="/mnt/data/3 (2).png" alt="Customer Analysis Dashboard">
+<img width="1668" height="837" alt="3 (2)" src="https://github.com/user-attachments/assets/f741c6ff-e40e-4e39-9452-50d71b194112" />
 
 <hr>
 
@@ -101,7 +103,8 @@ CLV = (Average Order Value × Average Profit Margin) ÷ Purchase Frequency
     <li>Shipping performance varies significantly across regions.</li>
 </ul>
 
-<img src="/mnt/data/4 (2).png" alt="Shipping and Operations Dashboard">
+<img width="1496" height="845" alt="4 (2)" src="https://github.com/user-attachments/assets/2cc46c19-86a7-4cee-8656-3252d492c0ff" />
+
 
 <hr>
 
@@ -114,7 +117,8 @@ CLV = (Average Order Value × Average Profit Margin) ÷ Purchase Frequency
     <li>Lowest sales recorded for Motorola Smartphone in Canada ($3,864).</li>
 </ul>
 
-<img src="/mnt/data/5 (2).png" alt="Product and Category Analysis Dashboard">
+
+<img width="1672" height="849" alt="5 (2)" src="https://github.com/user-attachments/assets/547d4f1e-d1ef-4491-83e7-7c6f488ace9e" />
 
 <hr>
 
